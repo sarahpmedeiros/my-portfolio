@@ -24,8 +24,8 @@ class About extends Component {
                                 <p style={{ fontSize: '1.33em'}}>
                                     I'm Sarah Medeiros a software engineer at Wayfair.
                                     I graduated from Boston University in 2017 with a BA in Computer
-                                    Science. I am interested in web development and security.
-                                    In my spare time I love to bake, read, and knit. But I also enjoy
+                                    Science.
+                                    In my spare time I love to bake, read, and spend time with my friends and family. I also love
                                     learning new things.
                                 </p>
                             </Grid.Column>

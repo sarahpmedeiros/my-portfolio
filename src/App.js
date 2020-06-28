@@ -17,7 +17,7 @@ const FixedMenu = () => (
             left: '16px',
             textAlign: 'center'
         }}>
-            Sarah P. Medeiros
+            Sarah Medeiros
 
         </Header>
         <Container>
@@ -111,7 +111,7 @@ class App extends Component {
                         <Grid.Row>
                             <Grid.Column textAlign={'center'}>
                                 <Icon name={'copyright'}/>
-                                2017 Sarah Medeiros
+                                2020 Sarah Medeiros
                             </Grid.Column>
                             <Grid.Column textAlign={'center'}>
                                 <a href={'https://linkedin.com/in/sarah-medeiros-0978b1112/'} target="_blank">
