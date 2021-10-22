@@ -17,6 +17,8 @@ spec:
 ---
 
 apiVersion: backstage.io/v1alpha1
+metadata:
+  name: my-portfolio
 kind: Group
 name: developerexperience
 spec:
