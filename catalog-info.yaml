@@ -13,3 +13,12 @@ spec:
   displayName: my portfolio
   lifecycle: production
   owner: developerexperience
+
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: Group
+name: developerexperience
+spec:
+  displayName: dev exp
+  owner: developerexperience
