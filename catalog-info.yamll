@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-portfolio
+  description: Backstage developer portal
+  annotations:
+    github.com/project-slug: shared/backstage-wayfair
+    buildkite.com/project-slug: wayfair/backstage-wayfair
+    sonarqube.org/project-key: backstage_wayfair
+    backstage.io/techdocs-ref: url:https://github.csnzoo.com/shared/backstage-wayfair
+spec:
+  type: website
+  displayName: my portfolio
+  lifecycle: production
+  owner: developerexperience
